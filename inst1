@@ -1,0 +1,53 @@
+
+Welcome aboard the Lunar Module Flight Simulator
+
+   To begin you must specify the LM's initial altitude
+   and fuel level.  To simulate the actual LM use
+   values of 1300 meters and 500 liters, respectively.
+
+   Good luck and may the force be with you!
+
+Enter the initial altitude of the LM (in meters): ERROR: Altitude must be between 1 and 9999, inclusive, please try again
+
+Enter the initial altitude of the LM (in meters): Enter the initial amount of fuel on board the LM (in liters): 
+LM state at retrorocket cutoff
+Elapsed Time:    0 s
+        Fuel:    9 l
+        Rate:    0 l/s
+    Altitude:  459.00 m
+    Velocity:    0.00 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): OUT OF FUEL - Elapsed Time:   1 Altitude:  459.65 Velocity:    1.30
+OUT OF FUEL - Elapsed Time:   2 Altitude:  460.13 Velocity:   -0.32
+OUT OF FUEL - Elapsed Time:   3 Altitude:  459.00 Velocity:   -1.94
+OUT OF FUEL - Elapsed Time:   4 Altitude:  456.25 Velocity:   -3.56
+OUT OF FUEL - Elapsed Time:   5 Altitude:  451.87 Velocity:   -5.18
+OUT OF FUEL - Elapsed Time:   6 Altitude:  445.88 Velocity:   -6.80
+OUT OF FUEL - Elapsed Time:   7 Altitude:  438.26 Velocity:   -8.42
+OUT OF FUEL - Elapsed Time:   8 Altitude:  429.03 Velocity:  -10.04
+OUT OF FUEL - Elapsed Time:   9 Altitude:  418.18 Velocity:  -11.66
+OUT OF FUEL - Elapsed Time:  10 Altitude:  405.70 Velocity:  -13.28
+OUT OF FUEL - Elapsed Time:  11 Altitude:  391.61 Velocity:  -14.90
+OUT OF FUEL - Elapsed Time:  12 Altitude:  375.89 Velocity:  -16.52
+OUT OF FUEL - Elapsed Time:  13 Altitude:  358.56 Velocity:  -18.14
+OUT OF FUEL - Elapsed Time:  14 Altitude:  339.61 Velocity:  -19.76
+OUT OF FUEL - Elapsed Time:  15 Altitude:  319.03 Velocity:  -21.38
+OUT OF FUEL - Elapsed Time:  16 Altitude:  296.84 Velocity:  -23.00
+OUT OF FUEL - Elapsed Time:  17 Altitude:  273.02 Velocity:  -24.62
+OUT OF FUEL - Elapsed Time:  18 Altitude:  247.59 Velocity:  -26.24
+OUT OF FUEL - Elapsed Time:  19 Altitude:  220.54 Velocity:  -27.86
+OUT OF FUEL - Elapsed Time:  20 Altitude:  191.86 Velocity:  -29.48
+OUT OF FUEL - Elapsed Time:  21 Altitude:  161.57 Velocity:  -31.10
+OUT OF FUEL - Elapsed Time:  22 Altitude:  129.65 Velocity:  -32.72
+OUT OF FUEL - Elapsed Time:  23 Altitude:   96.12 Velocity:  -34.34
+OUT OF FUEL - Elapsed Time:  24 Altitude:   60.97 Velocity:  -35.96
+OUT OF FUEL - Elapsed Time:  25 Altitude:   24.19 Velocity:  -37.58
+
+LM state at landing/impact
+Elapsed Time:   26 s
+        Fuel:    0 l
+        Rate:    0 l/s
+    Altitude:    0.00 m
+    Velocity:  -39.20 m/s
+
+Status at landing - Ouch - that hurt!
